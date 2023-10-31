@@ -21,81 +21,10 @@ Material UI and Icons
 Tailwing-css
 Application Folder Structure
 
+![Screenshot 2023-10-31 114509](https://github.com/Shiv199206/shiv-capstone-project/assets/126183364/f5b17d8a-2690-4a57-a5ad-330e6e1885d5)
+![Screenshot 2023-10-31 114614](https://github.com/Shiv199206/shiv-capstone-project/assets/126183364/f17ed830-b192-4400-935b-3298a17f1926)
 
-├── public/
-│	        ├── index.html
-│       	├──images/
-│		      ├── template1.png
-│		      ├── template2.png
-│		      ├── template3.png
-│		      ├── template4.png	
-├──src/
-│	        ├──App.js
-│	        ├──App.css
-│	        ├──App.test.js
-│	        ├──index.css
-│	        ├──index.js
-│       	├──setupTests.js
-├──Components/
-│		 ├──images/
-│			    ├──LOGO.png
-│			    ├──Right.png
-│			    ├──aboutus.png
-│			    ├──download.png
-│			    ├──nodata.png
-│   	    ├── Education.jsx
-│		      ├──GettingStarted.jsx
-│		     ├──Keyskills.jsx
-│		     ├──Myresume.jsx
-│		     ├──PersonalInformation.jsx
-│		     ├──Workexperience.jsx
-│	├──Data/
-│		     ├──data.js
-│	├──Pages/
-│		 ├──About US/
-│			     ├──Aboutus.jsx
-│		├──Details Filing/
-│			     ├──Detailfilling.jsx
-│			     ├──sidebar.css 
-│		├──Home/
-│			    ├──TempleteCard.jsx
-│			    ├──Templetes.jsx
-│		├──Preview/
-│			    ├──Preview,jsx
-│	├──Redux/
-│		├──actions/
-│			    ├──actions.js
-│			    ├──saveresume.js
-│			    ├──setcontact.js
-│			    ├──seteducation.js
-│			    ├──setexperience.js
-│			    ├──setkeyskills.js
-│			├──settemplate.js
-│		├──constants/
-│			├──typeCodes.js
-│		├──reducers/
-│			├──initialState.js
-│			├──rootReducer.js
-│			├──saveresume.js
-│			├──setcontact.js
-│			├──seteducation.js
-│			├──setexperience.js
-│			├──setkeyskills.js
-│			├──settemplate.js
-│		├──store
-│			├──store.js
-│	├──Templetes/
-│		├──Resume1.css
-│		├──Resume1.jsx
-│		├──Resume2.jsx
-│		├──Resume3.css
-│		├──Resume3.jsx
-│		├──Resume4.css
-│		├──Resume4.jsx
-├──index.js   
-├──package-lock.json
-├──package.json
-└──tailwind.config.js
+
 Components and Pages of Application:
 Template Selection - From this component user can choose their favourite template.
 
