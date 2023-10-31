@@ -63,6 +63,7 @@ Application Folder Structure
 │		├──Preview/
 │			├──Preview,jsx
 │	├──Redux/
+
 │		├──actions/
 │			├──actions.js
 │			├──saveresume.js
@@ -72,8 +73,10 @@ Application Folder Structure
 │			├──setkeyskills.js
 │			├──settemplate.js
 │		├──constants/
+
 │			├──typeCodes.js
 │		├──reducers/
+
 │			├──initialState.js
 │			├──rootReducer.js
 │			├──saveresume.js
@@ -82,8 +85,9 @@ Application Folder Structure
 │			├──setexperience.js
 │			├──setkeyskills.js
 │			├──settemplate.js
+
 │		├──store
-│			├──store.js
+├──store.js
 │	├──Templetes/
 │		├──Resume1.css
 │		├──Resume1.jsx
