@@ -63,7 +63,6 @@ Application Folder Structure
 │		├──Preview/
 │			├──Preview,jsx
 │	├──Redux/
-
 │		├──actions/
 │			├──actions.js
 │			├──saveresume.js
@@ -73,10 +72,8 @@ Application Folder Structure
 │			├──setkeyskills.js
 │			├──settemplate.js
 │		├──constants/
-
 │			├──typeCodes.js
 │		├──reducers/
-
 │			├──initialState.js
 │			├──rootReducer.js
 │			├──saveresume.js
@@ -85,9 +82,8 @@ Application Folder Structure
 │			├──setexperience.js
 │			├──setkeyskills.js
 │			├──settemplate.js
-
 │		├──store
-├──store.js
+│			├──store.js
 │	├──Templetes/
 │		├──Resume1.css
 │		├──Resume1.jsx
@@ -100,8 +96,10 @@ Application Folder Structure
 ├──package-lock.json
 ├──package.json
 └──tailwind.config.js
-Components and Pages of Application:
-Template Selection - From this component user can choose their favourite template.
+
+
+
+└──tailwind.config.jsemplate Selection - From this component user can choose their favourite template.
 ![Screenshot 2023-10-31 110616](https://github.com/Shiv199206/shiv-capstone-project/assets/126183364/f3104a73-b2a4-4ec4-8b3b-63eca8523b16)
 
 
